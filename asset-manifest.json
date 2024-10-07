@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-project-todo/static/css/main.e4de3663.css",
+    "main.js": "/react-project-todo/static/js/main.ae73f8ed.js",
+    "static/js/453.b12a1191.chunk.js": "/react-project-todo/static/js/453.b12a1191.chunk.js",
+    "static/media/logo.svg": "/react-project-todo/static/media/logo.10405fc30d75c1617d30c2b31a9da7e3.svg",
+    "index.html": "/react-project-todo/index.html",
+    "main.e4de3663.css.map": "/react-project-todo/static/css/main.e4de3663.css.map",
+    "main.ae73f8ed.js.map": "/react-project-todo/static/js/main.ae73f8ed.js.map",
+    "453.b12a1191.chunk.js.map": "/react-project-todo/static/js/453.b12a1191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4de3663.css",
+    "static/js/main.ae73f8ed.js"
+  ]
+}
